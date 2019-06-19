@@ -1,0 +1,14 @@
+C:\Users\tessa\Desktop\qap\stg.test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\tessa\Desktop\qap\stg.test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\tessa\Desktop\qap\stg.test\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\tessa\Desktop\qap\stg.test\bin\Debug\netcoreapp2.2\stg.test.deps.json
+C:\Users\tessa\Desktop\qap\stg.test\bin\Debug\netcoreapp2.2\stg.test.runtimeconfig.json
+C:\Users\tessa\Desktop\qap\stg.test\bin\Debug\netcoreapp2.2\stg.test.runtimeconfig.dev.json
+C:\Users\tessa\Desktop\qap\stg.test\bin\Debug\netcoreapp2.2\stg.test.dll
+C:\Users\tessa\Desktop\qap\stg.test\bin\Debug\netcoreapp2.2\stg.test.pdb
+C:\Users\tessa\Desktop\qap\stg.test\obj\Debug\netcoreapp2.2\stg.test.csprojAssemblyReference.cache
+C:\Users\tessa\Desktop\qap\stg.test\obj\Debug\netcoreapp2.2\stg.test.csproj.CoreCompileInputs.cache
+C:\Users\tessa\Desktop\qap\stg.test\obj\Debug\netcoreapp2.2\stg.test.AssemblyInfoInputs.cache
+C:\Users\tessa\Desktop\qap\stg.test\obj\Debug\netcoreapp2.2\stg.test.AssemblyInfo.cs
+C:\Users\tessa\Desktop\qap\stg.test\obj\Debug\netcoreapp2.2\stg.test.dll
+C:\Users\tessa\Desktop\qap\stg.test\obj\Debug\netcoreapp2.2\stg.test.pdb

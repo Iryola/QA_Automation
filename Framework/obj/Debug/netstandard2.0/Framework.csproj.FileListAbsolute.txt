@@ -1,0 +1,9 @@
+C:\Users\tessa\Desktop\qap\Framework\bin\Debug\netstandard2.0\Framework.deps.json
+C:\Users\tessa\Desktop\qap\Framework\bin\Debug\netstandard2.0\Framework.dll
+C:\Users\tessa\Desktop\qap\Framework\bin\Debug\netstandard2.0\Framework.pdb
+C:\Users\tessa\Desktop\qap\Framework\obj\Debug\netstandard2.0\Framework.csprojAssemblyReference.cache
+C:\Users\tessa\Desktop\qap\Framework\obj\Debug\netstandard2.0\Framework.csproj.CoreCompileInputs.cache
+C:\Users\tessa\Desktop\qap\Framework\obj\Debug\netstandard2.0\Framework.AssemblyInfoInputs.cache
+C:\Users\tessa\Desktop\qap\Framework\obj\Debug\netstandard2.0\Framework.AssemblyInfo.cs
+C:\Users\tessa\Desktop\qap\Framework\obj\Debug\netstandard2.0\Framework.dll
+C:\Users\tessa\Desktop\qap\Framework\obj\Debug\netstandard2.0\Framework.pdb

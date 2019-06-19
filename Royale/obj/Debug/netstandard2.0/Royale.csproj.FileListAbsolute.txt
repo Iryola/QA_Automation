@@ -1,0 +1,12 @@
+C:\Users\tessa\Desktop\qap\Royale\bin\Debug\netstandard2.0\Royale.deps.json
+C:\Users\tessa\Desktop\qap\Royale\bin\Debug\netstandard2.0\Royale.dll
+C:\Users\tessa\Desktop\qap\Royale\bin\Debug\netstandard2.0\Royale.pdb
+C:\Users\tessa\Desktop\qap\Royale\bin\Debug\netstandard2.0\Framework.dll
+C:\Users\tessa\Desktop\qap\Royale\bin\Debug\netstandard2.0\Framework.pdb
+C:\Users\tessa\Desktop\qap\Royale\obj\Debug\netstandard2.0\Royale.csprojAssemblyReference.cache
+C:\Users\tessa\Desktop\qap\Royale\obj\Debug\netstandard2.0\Royale.csproj.CoreCompileInputs.cache
+C:\Users\tessa\Desktop\qap\Royale\obj\Debug\netstandard2.0\Royale.AssemblyInfoInputs.cache
+C:\Users\tessa\Desktop\qap\Royale\obj\Debug\netstandard2.0\Royale.AssemblyInfo.cs
+C:\Users\tessa\Desktop\qap\Royale\obj\Debug\netstandard2.0\Royale.csproj.CopyComplete
+C:\Users\tessa\Desktop\qap\Royale\obj\Debug\netstandard2.0\Royale.dll
+C:\Users\tessa\Desktop\qap\Royale\obj\Debug\netstandard2.0\Royale.pdb
